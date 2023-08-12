@@ -3,6 +3,7 @@
 Este projeto tem como objetivo desenvolver um aplicativo para exibir os filmes e os atores cadastrados. O aplicativo foi desenvolvido utilizando o Ionic, um Framework para criação de aplicações móveis e desktop de alto desempenho e qualidade, que utiliza as tecnologias web HTML, CSS e JavaScript. Uma das principais vantagens do Ionic é a capacidade de desenvolver um único código-base para múltiplas plataformas, o que reduz o tempo e os custos de desenvolvimento.<br>
 
 
+
 >:construction: Aplicativo em desenvolvimento :construction:
 
 
@@ -37,7 +38,7 @@ npm i -g @ionic/cli                     # Criação do ambiente ionic
 npx ionic generate page nova-pagina     # Cria uma nova tela no aplicativo
 pip django-cors-headers                 # Instala o pacote CORS, que é utilizado pelo Django como ferramenta de segurança
 ionic serve                             # Executa o aplicativo
-
+```
 
 
 ## Autor
