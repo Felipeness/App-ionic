@@ -1,0 +1,32 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+.container > div {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+.container > div > label{
+    color: #f72585;
+}
+
+.container > div > input{
+    text-align: center;
+    height: 5vh;
+    border: 1px solid ;
+    border-radius: 10px;
+}
+
+button{
+    margin-top: 2vh;
+    padding: 2vh;
+    background-color: #f72585;
+    border-radius: 2vh;
+    color: white;
+}
+

@@ -1,0 +1,23 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>MOVIES</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <form [formGroup]="loginForm" (ngSubmit)="login()">
+    <div class="container">
+      <div>
+        <label>Usuário</label>
+        <input formControlName = "user" />
+      </div>
+      <div>
+        <label>Senha</label>
+        <input formControlName = "pass" type="password" />
+      </div>
+      <div>
+        <button type="submit">Login</button>
+      </div>
+    </div>
+  </form>
+</ion-content>
