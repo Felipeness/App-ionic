@@ -2,9 +2,12 @@
 
 Este projeto tem como objetivo desenvolver um aplicativo para exibir os filmes e os atores cadastrados. O aplicativo foi desenvolvido utilizando o Ionic, um Framework para criação de aplicações móveis e desktop de alto desempenho e qualidade, que utiliza as tecnologias web HTML, CSS e JavaScript. Uma das principais vantagens do Ionic é a capacidade de desenvolver um único código-base para múltiplas plataformas, o que reduz o tempo e os custos de desenvolvimento.<br>
 
+<div align="center">
+  <img src="https://github.com/alaimcosta/aplicativo-ionic/assets/71519298/d1b09906-8f72-4893-aa31-673cadceecda" width="300px"/><br><br>
+  :construction: Aplicativo em desenvolvimento :construction:
+</div>
 
 
->:construction: Aplicativo em desenvolvimento :construction:
 
 
 
