@@ -4,6 +4,7 @@
     flex-direction: column;
     align-content: center;
     justify-content: center;
+    
 }
 .container > div {
     display: flex;
@@ -11,8 +12,12 @@
     padding-left: 5vw;
     padding-right: 5vw;
 }
-.container > div > label{
-    color: #f72585;
+
+
+.labelName{
+    text-align: center;
+    height: 7vh;
+    font-size: 35px;
 }
 
 .container > div > input{
@@ -20,13 +25,33 @@
     height: 5vh;
     border: 1px solid ;
     border-radius: 10px;
+    margin-top: 2vh;
+    
 }
 
+
 button{
-    margin-top: 2vh;
+    margin-top: 4vh;
     padding: 2vh;
     background-color: #f72585;
     border-radius: 2vh;
     color: white;
 }
 
+.labelSign {
+    border-top: 1px solid white;
+    bottom: 0;
+    left: 0;
+    height: 7vh;
+    position: fixed;
+    width: 100%;
+}
+
+.labelSign > label {
+    margin-top: 2vh;
+    text-align: center;
+}
+
+a{
+    color: #f72585;
+}

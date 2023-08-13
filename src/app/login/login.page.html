@@ -8,16 +8,21 @@
   <form [formGroup]="loginForm" (ngSubmit)="login()">
     <div class="container">
       <div>
-        <label>Usuário</label>
-        <input formControlName = "user" />
+        <label class="labelName">Top Movies Brasil</label>
       </div>
       <div>
-        <label>Senha</label>
-        <input formControlName = "pass" type="password" />
+        <input class="inputUsername" formControlName = "user" placeholder="Username"/>
       </div>
       <div>
-        <button type="submit">Login</button>
+        <input formControlName = "pass" type="password" placeholder="Password"/>
       </div>
+      <div>
+        <button type="submit">Entrar</button>
+      </div>
+      <div class="labelSign">
+        <label>Não tem uma conta? <a>Sign Up</a></label>
+      </div>
+
     </div>
   </form>
 </ion-content>
