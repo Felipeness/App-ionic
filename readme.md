@@ -5,7 +5,7 @@ Esta aplicação foi desenvolvida durante a 3° aula do curso __Desenvolvimento 
 
 
 <div align="center">
-  <img src="https://github.com/alaimcosta/aplicativo-ionic/assets/71519298/d1b09906-8f72-4893-aa31-673cadceecda" width="300px"/><br><br>
+  <img src="https://github.com/alaimcosta/aplicativo-ionic/assets/71519298/911ccb86-6f57-4453-80f8-b46c283f5e88" width="300px"/><br><br>
   :construction: Aplicativo em desenvolvimento :construction:
 </div>
 
