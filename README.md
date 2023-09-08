@@ -44,7 +44,7 @@ npm i -g @ionic/cli                     # Installs the Ionic CLI
 npx ionic generate page new-page        # Generates a new page in the app
 pip install django-cors-headers         # Adds the CORS package for Django security
 ionic serve                             # Launches the application
-
+```
 
 ## 🖋 Author
 
